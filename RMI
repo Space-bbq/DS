@@ -84,3 +84,9 @@ e.getMessage());
 }
 }
 }
+
+save prgms in java bin
+give the path to terminal
+1st terminal > javac *.java > rmiregistry
+2nd terminal > java Server
+3rd terminal > java Client
