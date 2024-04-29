@@ -35,8 +35,7 @@ do {
 try {
 if(flag==1)
 System.out.print("Invalid Input!!...");
-System.out.print("Do you want to send again?? enter 1 
-for Yes and 0for No: ");
+System.out.print("Do you want to send again?? enter 1 for Yes and 0for No: ");
 ch=sc.nextInt();
 if (ch!=1 && ch !=0)
 flag=1;
